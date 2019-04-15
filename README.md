@@ -15,7 +15,7 @@
 * [苹果手机使用教程](https://doc.bmxcloud.app/use/ios.html)
 * [安卓手机使用教程](https://doc.bmxcloud.app/use/android.html)
 * [Windows电脑使用教程](https://doc.bmxcloud.app/use/win.html)
-* [苹果电脑使用教程](https://doc.bmxcloud.app/use/mac.html)
+* [苹果电脑使用教程](https://doc.bmxcloud.app/use/macos.html)
 
 
 
